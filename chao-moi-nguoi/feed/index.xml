@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My wordpress	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://vantai2705.github.io/Mywordpres</link>
+	Các phản hồi luận về: Chào tất cả mọi người!	</title>
+	<atom:link href="http://localhost/myproject/wordpress/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vantai2705.github.io/Mywordpres/chao-moi-nguoi/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 08 Sep 2022 01:43:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		Bởi: Một người bình luận WordPress		</title>
 		<link>https://vantai2705.github.io/Mywordpres/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
